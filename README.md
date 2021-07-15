@@ -1,2 +1,2 @@
-# Actividad-6
+# Actividades
 Creación de repositorio
